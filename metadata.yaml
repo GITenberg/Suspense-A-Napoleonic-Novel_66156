@@ -1,0 +1,36 @@
+_repo: Suspense-A-Napoleonic-Novel_66156
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Conrad, Joseph
+    aliases:
+    - Korzeniowski, Jozef Konrad Teodor
+    - Korzeniowski, Józef Konrad Teodor
+    - Korzeniowski, Joseph Conrad Theodore
+    birthdate: 1857
+    deathdate: 1924
+    gutenberg_agent_id: '125'
+    url: http://www.gutenberg.org/2009/agents/125
+    wikipedia: https://en.wikipedia.org/wiki/Joseph_Conrad
+description: ''
+gutenberg_issued: '2021-08-27'
+identifiers:
+  gutenberg: '66156'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/006679306
+pgterms:marc905: 20210731100959conrad
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Laura Natal Rodrigues at Free Literature (Images generously made
+  available by Hathi Trust Digital Library.)
+publication_note: United States :Doubleday, Page &amp; company,1925.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'War stories'
+- !lcsh 'Napoleonic Wars, 1800-1815 -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'Suspense: A Napoleonic Novel'
+url: http://www.gutenberg.org/ebooks/66156
